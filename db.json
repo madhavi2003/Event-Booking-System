@@ -1,0 +1,184 @@
+{
+  "event":[
+  {
+    "id": 1,
+    "title": "Music Concert: Rock Night",
+    "description": "Join us for an electrifying night of rock music featuring top bands.",
+    "category": "Music",
+    "date": "2024-11-10",
+    "availableSeats": 100,
+    "price": 50
+  },
+  {
+    "id": 2,
+    "title": "Art Exhibition: Modern Abstract",
+    "description": "Explore the latest trends in abstract art with renowned artists.",
+    "category": "Art",
+    "date": "2024-11-15",
+    "availableSeats": 30,
+    "price": 20
+  },
+  {
+    "id": 3,
+    "title": "Business Conference: Tech Innovations",
+    "description": "Industry leaders discuss the future of technology and innovations.",
+    "category": "Business",
+    "date": "2024-12-05",
+    "availableSeats": 200,
+    "price": 150
+  },
+  {
+    "id": 4,
+    "title": "Comedy Show: Stand-up Special",
+    "description": "Laugh out loud with some of the best stand-up comedians.",
+    "category": "Comedy",
+    "date": "2024-11-20",
+    "availableSeats": 120,
+    "price": 30
+  },
+  {
+    "id": 5,
+    "title": "Food Festival: Street Food Fiesta",
+    "description": "A festival celebrating street food from around the world.",
+    "category": "Food",
+    "date": "2024-11-25",
+    "availableSeats": 80,
+    "price": 15
+  },
+  {
+    "id": 6,
+    "title": "Yoga Workshop: Mindfulness and Relaxation",
+    "description": "A guided yoga and meditation session for stress relief.",
+    "category": "Wellness",
+    "date": "2024-12-10",
+    "availableSeats": 50,
+    "price": 10
+  },
+  {
+    "id": 7,
+    "title": "Tech Expo: Future Gadgets",
+    "description": "Discover cutting-edge technology and futuristic gadgets.",
+    "category": "Tech",
+    "date": "2024-12-15",
+    "availableSeats": 300,
+    "price": 100
+  },
+  {
+    "id": 8,
+    "title": "Theater Play: Shakespeare's Classics",
+    "description": "A modern take on some of Shakespeare’s most famous plays.",
+    "category": "Theater",
+    "date": "2024-12-01",
+    "availableSeats": 70,
+    "price": 40
+  },
+  {
+    "id": 9,
+    "title": "Sports Event: Football Finals",
+    "description": "Watch the thrilling finals of the regional football championship.",
+    "category": "Sports",
+    "date": "2024-11-30",
+    "availableSeats": 500,
+    "price": 60
+  },
+  {
+    "id": 10,
+    "title": "Film Screening: Indie Films",
+    "description": "A collection of critically acclaimed independent films.",
+    "category": "Film",
+    "date": "2024-12-18",
+    "availableSeats": 150,
+    "price": 25
+  },
+  {
+    "id": 11,
+    "title": "Coding Workshop: Web Development",
+    "description": "Learn web development with hands-on projects.",
+    "category": "Education",
+    "date": "2024-12-20",
+    "availableSeats": 40,
+    "price": 80
+  },
+  {
+    "id": 12,
+    "title": "Dance Class: Salsa Beginners",
+    "description": "Get introduced to salsa dancing in a fun and energetic class.",
+    "category": "Dance",
+    "date": "2024-12-05",
+    "availableSeats": 25,
+    "price": 20
+  },
+  {
+    "id": 13,
+    "title": "Literature Festival: Writers' Circle",
+    "description": "A festival celebrating contemporary authors and their work.",
+    "category": "Literature",
+    "date": "2024-12-22",
+    "availableSeats": 100,
+    "price": 30
+  },
+  {
+    "id": 14,
+    "title": "Science Fair: Innovations in Sustainability",
+    "description": "Explore student-led projects focused on sustainable innovations.",
+    "category": "Science",
+    "date": "2024-11-28",
+    "availableSeats": 200,
+    "price": 10
+  },
+  {
+    "id": 15,
+    "title": "Charity Event: Marathon for a Cause",
+    "description": "Run to raise funds for community development programs.",
+    "category": "Charity",
+    "date": "2024-12-10",
+    "availableSeats": 1000,
+    "price": 25
+  },
+  {
+    "id": 16,
+    "title": "Photography Workshop: Capturing the Moment",
+    "description": "Learn photography techniques with professionals.",
+    "category": "Photography",
+    "date": "2024-12-14",
+    "availableSeats": 30,
+    "price": 60
+  },
+  {
+    "id": 17,
+    "title": "Cooking Class: Italian Cuisine",
+    "description": "Master the art of Italian cooking in this interactive class.",
+    "category": "Food",
+    "date": "2024-11-22",
+    "availableSeats": 20,
+    "price": 50
+  },
+  {
+    "id": 18,
+    "title": "Cultural Festival: World Music & Dance",
+    "description": "Experience music and dance performances from around the globe.",
+    "category": "Culture",
+    "date": "2024-12-03",
+    "availableSeats": 300,
+    "price": 40
+  },
+  {
+    "id": 19,
+    "title": "Game Tournament: E-Sports Showdown",
+    "description": "Compete in popular e-sports games and win exciting prizes.",
+    "category": "Gaming",
+    "date": "2024-12-12",
+    "availableSeats": 150,
+    "price": 20
+  },
+  {
+    "id": 20,
+    "title": "Public Speaking Seminar: The Art of Persuasion",
+    "description": "Learn public speaking and persuasion skills with experts.",
+    "category": "Education",
+    "date": "2024-12-17",
+    "availableSeats": 100,
+    "price": 50
+  }
+  ]
+}
