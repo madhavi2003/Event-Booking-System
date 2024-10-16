@@ -1,0 +1,179 @@
+.page1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    background-image: url("event1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.page2{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px black;
+    background-color: rgb(240, 233, 241);
+    margin-top: 30px;
+}
+.item1{
+    text-align: center;
+    background-color: rgb(22, 22, 61);
+    padding: 30px;
+    margin: 0;
+    color: white;
+    text-decoration: underline;
+}
+.btn{
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgb(219, 230, 153);
+}
+.Page3{
+    background-image: url("logeve1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15%;
+}
+.item3{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    background-color: rgb(212, 173, 238);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.item4{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.page4{
+    background-image: url("deve.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15%;
+    color: white;
+    
+    
+}
+.page5{
+    text-align: center;
+    margin-left: 20%;
+    border-radius: 5px;
+    padding: 10px;
+}
+.search-bar{
+    background-color: rgb(22, 22, 61);
+}
+
+.search{
+    margin-left: 10%;
+    padding-right: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50%;
+}
+.page7{
+    margin-left: 30%;
+}
+.pagination{
+    background-color: black;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin:2px 0;
+  }
+  
+  .pagination-btn {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+    cursor: pointer;
+  }
+  
+  .pagination-btn:hover {
+    background-color: #ddd;
+  }
+  
+  .pagination-btn.active {
+    background-color: #007bff;
+    color: white;
+  }
+  .event-list-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .search {
+    width:80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .events {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    gap: 20px;
+  }
+  
+  .event-card {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; /* Ensure the button appears as a button */
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination-btn {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background-color: white;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .pagination-btn.active {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .pagination-btn:disabled {
+    background-color: #f0f0f0;
+    cursor: not-allowed;
+  }
+  
